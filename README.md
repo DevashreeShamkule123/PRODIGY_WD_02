@@ -55,6 +55,11 @@ By building this stopwatch app, I gained hands-on experience in:
 **Task:** Stopwatch Web Application (Task 2)
 
 ---
+## 🧑‍💻 Author
 
+**Devashree Devanand Shamkule**  
+*Web Development Intern – Prodigy InfoTech*
+
+---
 
 
