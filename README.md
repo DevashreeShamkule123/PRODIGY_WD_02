@@ -58,7 +58,6 @@ By building this stopwatch app, I gained hands-on experience in:
 ## 🧑‍💻 Author
 
 **Devashree Devanand Shamkule**  
-*Web Development Intern – Prodigy InfoTech*
 
 ---
 
